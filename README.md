@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gagan Jain
-- 👀 I’m interested in Robotics, Control, Computer Vision, and Statistical Optimization
-- 💞️ I’d love to have discussions on reinforcement learning, autonomous driving and robotics in general
+- 👀 I’m interested in Optimal Control and Reinforcement Learning, Computer Vision, and Statistical Optimization
 - 📫 How to reach me - gaganjain1582@gmail.com
 
 <!---
