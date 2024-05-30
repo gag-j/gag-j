@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gagan Jain
-- 👀 I’m interested in Robotics, Control, Deep Learning and Reinforcement Learning
-- 🌱 I’m currently learning optimal control for underactuated robotics, and working on extreme classification based problems 
+- 👀 I’m interested in Robotics, Control, Computer Vision, and Statistical Optimization
 - 💞️ I’d love to have discussions on reinforcement learning, autonomous driving and robotics in general
 - 📫 How to reach me - gaganjain1582@gmail.com
 
