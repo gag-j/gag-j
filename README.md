@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gagan Jain
-- 👀 I’m interested in Optimal Control and Reinforcement Learning, Computer Vision, and Statistical Optimization
+- 👀 I’m interested in Optimal Control and Reinforcement Learning, Computer Vision, and Stochastic Optimization
 - 📫 How to reach me - gaganjain1582@gmail.com
 
 <!---
